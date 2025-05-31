@@ -1,0 +1,6 @@
+[submodule "VideoLLaMA3"]
+	path = VideoLLaMA3
+	url = https://github.com/DAMO-NLP-SG/VideoLLaMA3.git
+[submodule "Video-XL"]
+	path = Video-XL
+	url = https://github.com/VectorSpaceLab/Video-XL.git

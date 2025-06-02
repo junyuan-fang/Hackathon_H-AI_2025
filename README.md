@@ -13,8 +13,7 @@ See our solutions in video:
 </video> -->
 
 
-https://github.com/user-attachments/assets/5a5a2a26-63d0-4b31-a561-81ea546a4dbe
-
+https://github.com/user-attachments/assets/a152c174-e275-44c1-8a85-3768a2715fea
 
 
 See our solution in slides:  
